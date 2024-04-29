@@ -195,3 +195,7 @@ OSS-GPT 是集成了[DocsGPT](https://github.com/arc53/docsgpt)能力的开源�
 更多信息请参考 [贡献指南](./CONTRIBUTING.md)。
 
 在 <a href="https://join.slack.com/t/hypertrons/shared_invite/zt-1a7tfc1tx-5YP8m59Yg~vSqiMBMeUJnQ" target="_blank">Slack</a> 上联系我们。
+
+# notice
+yarn run prettier 
+格式化代码
